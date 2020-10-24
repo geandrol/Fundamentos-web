@@ -1,0 +1,42 @@
+
+.tituloind{
+  text-align: center;
+}
+.contener{
+  display: flex;
+  flex-direction: row
+}
+.titulovid{
+  text-align: center;
+}
+
+.contenervid{
+  display: flex;
+  flex-direction: row
+}
+.p{
+  margin: 50px;
+}
+li{
+  display: inline;
+}
+li a{
+  padding: 8;
+  text-decoration-color: gainsboro;
+  color: honeydew;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 2;
+  overflow: hidden;
+  background-color: rgb(84, 186, 226);
+}
+
+/* contado*/
+
+.container2{
+
+  text-align: center;
+
+}
